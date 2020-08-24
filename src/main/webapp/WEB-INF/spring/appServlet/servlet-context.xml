@@ -22,7 +22,7 @@
 	</beans:bean>
 	
 	<context:component-scan base-package="org.zerock.controller" />
-	
+	<!-- component 어노테이션 붙으면 bean으로 만든다 -->
 	
 	
 </beans:beans>
